@@ -1,2 +1,2 @@
-# conflict
+# REMOTE
 conflict resolution
