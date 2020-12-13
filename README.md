@@ -1,2 +1,2 @@
-# conflict
+# LOCAL
 conflict resolution
